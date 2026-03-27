@@ -1,4 +1,3 @@
-alembic==1.18.4
 altair==6.0.0
 anyio==4.13.0
 appnope==0.1.4
@@ -18,7 +17,6 @@ certifi==2026.2.25
 cffi==2.0.0
 charset-normalizer==3.4.6
 click==8.3.1
-colorlog==6.10.1
 comm==0.2.3
 contourpy==1.3.3
 cycler==0.12.1
@@ -63,7 +61,6 @@ jupyterlab-widgets==3.0.16
 kiwisolver==1.5.0
 lark==1.3.1
 lightgbm==4.6.0
-mako==1.3.10
 markupsafe==3.0.3
 matplotlib==3.10.8
 matplotlib-inline==0.2.1
@@ -76,7 +73,6 @@ nest-asyncio==1.6.0
 notebook==7.5.5
 notebook-shim==0.2.4
 numpy==2.4.3
-optuna==4.8.0
 packaging==26.0
 pandas==3.0.1
 pandocfilters==1.5.1
@@ -115,7 +111,6 @@ setuptools==82.0.1
 six==1.17.0
 smmap==5.0.3
 soupsieve==2.8.3
-sqlalchemy==2.0.48
 stack-data==0.6.3
 streamlit==1.55.0
 tenacity==9.1.4
@@ -124,7 +119,6 @@ threadpoolctl==3.6.0
 tinycss2==1.4.0
 toml==0.10.2
 tornado==6.5.5
-tqdm==4.67.3
 traitlets==5.14.3
 typing-extensions==4.15.0
 tzdata==2025.3
@@ -135,4 +129,3 @@ webcolors==25.10.0
 webencodings==0.5.1
 websocket-client==1.9.0
 widgetsnbextension==4.0.15
-xgboost==3.2.0
